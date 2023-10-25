@@ -1,123 +1,14 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Portfolio
 
-[Link to another page](./another-page.html).
+### Machine Learning
+#### **Emotion-Responsive Brain-Computer Interface Music Player**
+We designed and developed a cutting-edge Brain-Computer Interface (BCI) music player that intuitively adapts music selection based on the user's emotional state. This innovative project leveraged various machine learning techniques, including Support Vector Machine algorithms, for the recognition of human emotions through a 2D emotion classifier. To capture brain signals, We engineered a custom electronic band featuring EEG electrodes, instrumentation amplifiers, and advanced noise reduction circuits. Furthermore, We created a responsive web application for real-time synchronization and simulation of brain signal activities.
 
-There should be whitespace between paragraphs.
+![enter image description here](https://www.researchgate.net/profile/Cuntai-Guan/publication/331845549/figure/fig1/AS:737997335064581@1552963684917/Conceptual-illustration-of-the-affective-music-BCI-A-During-calibration-the-user-is.png)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+**Key Achievements:**
+-   Developed a sophisticated emotion recognition model using Support Vector Machine algorithms, enabling the BCI system to accurately decipher a user's emotional state from EEG data.
+-   Designed a user-friendly web application that offers real-time brain signal monitoring, enhancing the overall user experience.
+-   Custom-built an electronic band for non-invasive EEG data acquisition, with a focus on signal fidelity and user comfort.
+-   Successfully integrated hardware and software components to create an end-to-end BCI system that seamlessly interprets human emotions and curates a personalized music playlist.
